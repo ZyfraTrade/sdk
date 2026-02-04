@@ -4,6 +4,8 @@
 
 We believe the most valuable financial data doesn’t come from a single institution, but from collective insight. Zyfra empowers communities to contribute intelligence, preserve privacy, and earn fair incentives.
 
+Official CA : H9YcX1nVyiZo1VYWCD1i8D65GzPmP7bS5YQUppi3pump
+
 ---
 
 ## ✨ Vision
